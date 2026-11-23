@@ -1,0 +1,12 @@
+{"case": "consecutive-ends", "returncode": -6, "ok": false, "error": "verovio-baseline: /verovio-src/src/object.cpp:306: void vrv::Object::InsertBefore(vrv::Object*, vrv::Object*): Assertion `this->GetChildIndex(child) != -1' failed.\n"}
+{"case": "explicit-second-start", "returncode": 0, "expected": ["n1", "n1", "n2", "n2"], "actual": ["n1", "n1", "n2", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "single-repeat", "returncode": 0, "expected": ["n1", "n2", "n1", "n2"], "actual": ["n1", "n2", "n1", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "no-repeats", "returncode": 0, "expected": ["n1", "n2"], "actual": ["n1", "n2"], "onsets": [0, 2000], "ok": true}
+{"case": "right-both", "returncode": 0, "expected": ["n1", "n1", "n2", "n2"], "actual": ["n1", "n1", "n2", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "left-both", "returncode": 0, "expected": ["n1", "n1", "n2", "n2"], "actual": ["n1", "n1", "n2", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "left-end", "returncode": -6, "ok": false, "error": "verovio-baseline: /verovio-src/src/object.cpp:306: void vrv::Object::InsertBefore(vrv::Object*, vrv::Object*): Assertion `this->GetChildIndex(child) != -1' failed.\n"}
+{"case": "same-boundary-twice", "returncode": -6, "ok": false, "error": "verovio-baseline: /verovio-src/src/object.cpp:306: void vrv::Object::InsertBefore(vrv::Object*, vrv::Object*): Assertion `this->GetChildIndex(child) != -1' failed.\n"}
+{"case": "leading-left-end", "returncode": 0, "expected": ["n1", "n2"], "actual": ["n1", "n1", "n2"], "onsets": [0, 2000, 4000], "ok": false}
+{"case": "trailing-plain", "returncode": 0, "expected": ["n1", "n1", "n2"], "actual": ["n1", "n1", "n2"], "onsets": [0, 2000, 4000], "ok": true}
+{"case": "three-ends", "returncode": -6, "ok": false, "error": "verovio-baseline: /verovio-src/src/object.cpp:306: void vrv::Object::InsertBefore(vrv::Object*, vrv::Object*): Assertion `this->GetChildIndex(child) != -1' failed.\n"}
+{"failures": 5}

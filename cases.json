@@ -1,0 +1,65 @@
+{
+  "consecutive-ends": [
+    "n1",
+    "n1",
+    "n2",
+    "n2"
+  ],
+  "explicit-second-start": [
+    "n1",
+    "n1",
+    "n2",
+    "n2"
+  ],
+  "single-repeat": [
+    "n1",
+    "n2",
+    "n1",
+    "n2"
+  ],
+  "no-repeats": [
+    "n1",
+    "n2"
+  ],
+  "right-both": [
+    "n1",
+    "n1",
+    "n2",
+    "n2"
+  ],
+  "left-both": [
+    "n1",
+    "n1",
+    "n2",
+    "n2"
+  ],
+  "left-end": [
+    "n1",
+    "n1",
+    "n2",
+    "n2"
+  ],
+  "same-boundary-twice": [
+    "n1",
+    "n1",
+    "n2",
+    "n2"
+  ],
+  "leading-left-end": [
+    "n1",
+    "n2"
+  ],
+  "trailing-plain": [
+    "n1",
+    "n1",
+    "n2"
+  ],
+  "three-ends": [
+    "n1",
+    "n1",
+    "n2",
+    "n2",
+    "n3",
+    "n3"
+  ]
+}

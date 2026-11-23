@@ -1,0 +1,22 @@
+{"build": "base", "case": "consecutive-ends", "returncode": -6, "stderr": "verovio-baseline: /verovio-src/src/object.cpp:306: void vrv::Object::InsertBefore(vrv::Object*, vrv::Object*): Assertion `this->GetChildIndex(child) != -1' failed.\n"}
+{"build": "base", "case": "explicit-second-start", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-base/explicit-second-start.mid.\n"}
+{"build": "base", "case": "single-repeat", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-base/single-repeat.mid.\n"}
+{"build": "base", "case": "no-repeats", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-base/no-repeats.mid.\n"}
+{"build": "base", "case": "right-both", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-base/right-both.mid.\n"}
+{"build": "base", "case": "left-both", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-base/left-both.mid.\n"}
+{"build": "base", "case": "left-end", "returncode": -6, "stderr": "verovio-baseline: /verovio-src/src/object.cpp:306: void vrv::Object::InsertBefore(vrv::Object*, vrv::Object*): Assertion `this->GetChildIndex(child) != -1' failed.\n"}
+{"build": "base", "case": "same-boundary-twice", "returncode": -6, "stderr": "verovio-baseline: /verovio-src/src/object.cpp:306: void vrv::Object::InsertBefore(vrv::Object*, vrv::Object*): Assertion `this->GetChildIndex(child) != -1' failed.\n"}
+{"build": "base", "case": "leading-left-end", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-base/leading-left-end.mid.\n"}
+{"build": "base", "case": "trailing-plain", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-base/trailing-plain.mid.\n"}
+{"build": "base", "case": "three-ends", "returncode": -6, "stderr": "verovio-baseline: /verovio-src/src/object.cpp:306: void vrv::Object::InsertBefore(vrv::Object*, vrv::Object*): Assertion `this->GetChildIndex(child) != -1' failed.\n"}
+{"build": "fixed", "case": "consecutive-ends", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/consecutive-ends.mid.\n"}
+{"build": "fixed", "case": "explicit-second-start", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/explicit-second-start.mid.\n"}
+{"build": "fixed", "case": "single-repeat", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/single-repeat.mid.\n"}
+{"build": "fixed", "case": "no-repeats", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/no-repeats.mid.\n"}
+{"build": "fixed", "case": "right-both", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/right-both.mid.\n"}
+{"build": "fixed", "case": "left-both", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/left-both.mid.\n"}
+{"build": "fixed", "case": "left-end", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/left-end.mid.\n"}
+{"build": "fixed", "case": "same-boundary-twice", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/same-boundary-twice.mid.\n"}
+{"build": "fixed", "case": "leading-left-end", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/leading-left-end.mid.\n"}
+{"build": "fixed", "case": "trailing-plain", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/trailing-plain.mid.\n"}
+{"build": "fixed", "case": "three-ends", "returncode": 0, "stderr": "Output written to /verovio-4533/midi-fixed/three-ends.mid.\n"}

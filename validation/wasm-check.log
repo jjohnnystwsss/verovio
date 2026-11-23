@@ -1,0 +1,11 @@
+{"case":"consecutive-ends","timemap":true,"midiBytes":89}
+{"case":"explicit-second-start","timemap":true,"midiBytes":89}
+{"case":"single-repeat","timemap":true,"midiBytes":89}
+{"case":"no-repeats","timemap":true,"midiBytes":71}
+{"case":"right-both","timemap":true,"midiBytes":89}
+{"case":"left-both","timemap":true,"midiBytes":89}
+{"case":"left-end","timemap":true,"midiBytes":89}
+{"case":"same-boundary-twice","timemap":true,"midiBytes":89}
+{"case":"leading-left-end","timemap":true,"midiBytes":71}
+{"case":"trailing-plain","timemap":true,"midiBytes":80}
+{"case":"three-ends","timemap":true,"midiBytes":107}

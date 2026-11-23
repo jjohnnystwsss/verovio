@@ -1,0 +1,8 @@
+configure: cmake -S /verovio-wasm-src/cmake -B /verovio-wasm-build -G Ninja -DBUILD_AS_WASM=ON -DNO_HUMDRUM_SUPPORT=ON -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_CXX_FLAGS=-O1 -DNDEBUG -sSTRICT=1 -fwasm-exceptions" -DCMAKE_CXX_FLAGS_DEBUG=-g0 -DCMAKE_TOOLCHAIN_FILE=/usr/share/emscripten/cmake/Modules/Platform/Emscripten.cmake -DCMAKE_CROSSCOMPILING_EMULATOR=/usr/bin/node
+-- Enabling debug information
+-- Performing Test VRV_CXX_HAS_OZ
+-- Performing Test VRV_CXX_HAS_OZ - Success
+-- ***** Building Verovio as WASM BC *****
+-- Configuring done (1.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: /verovio-wasm-build

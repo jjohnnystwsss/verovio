@@ -1,0 +1,12 @@
+{"case": "consecutive-ends", "returncode": 0, "expected": ["n1", "n1", "n2", "n2"], "actual": ["n1", "n1", "n2", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "explicit-second-start", "returncode": 0, "expected": ["n1", "n1", "n2", "n2"], "actual": ["n1", "n1", "n2", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "single-repeat", "returncode": 0, "expected": ["n1", "n2", "n1", "n2"], "actual": ["n1", "n2", "n1", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "no-repeats", "returncode": 0, "expected": ["n1", "n2"], "actual": ["n1", "n2"], "onsets": [0, 2000], "ok": true}
+{"case": "right-both", "returncode": 0, "expected": ["n1", "n1", "n2", "n2"], "actual": ["n1", "n1", "n2", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "left-both", "returncode": 0, "expected": ["n1", "n1", "n2", "n2"], "actual": ["n1", "n1", "n2", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "left-end", "returncode": 0, "expected": ["n1", "n1", "n2", "n2"], "actual": ["n1", "n1", "n2", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "same-boundary-twice", "returncode": 0, "expected": ["n1", "n1", "n2", "n2"], "actual": ["n1", "n1", "n2", "n2"], "onsets": [0, 2000, 4000, 6000], "ok": true}
+{"case": "leading-left-end", "returncode": 0, "expected": ["n1", "n2"], "actual": ["n1", "n2"], "onsets": [0, 2000], "ok": true}
+{"case": "trailing-plain", "returncode": 0, "expected": ["n1", "n1", "n2"], "actual": ["n1", "n1", "n2"], "onsets": [0, 2000, 4000], "ok": true}
+{"case": "three-ends", "returncode": 0, "expected": ["n1", "n1", "n2", "n2", "n3", "n3"], "actual": ["n1", "n1", "n2", "n2", "n3", "n3"], "onsets": [0, 2000, 4000, 6000, 8000, 10000], "ok": true}
+{"failures": 0}

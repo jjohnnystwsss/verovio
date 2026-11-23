@@ -1,0 +1,11 @@
+left-both.mei valid
+explicit-second-start.mei valid
+right-both.mei valid
+single-repeat.mei valid
+leading-left-end.mei valid
+trailing-plain.mei valid
+consecutive-ends.mei valid
+same-boundary-twice.mei valid
+no-repeats.mei valid
+left-end.mei valid
+three-ends.mei valid
