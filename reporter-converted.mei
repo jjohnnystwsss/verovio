@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="6.0-dev">
+   <meiHead xml:id="m1eh28de">
+      <fileDesc xml:id="ftxm0d2">
+         <titleStmt xml:id="t1jb9g7x">
+            <title />
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p1ta9s75" />
+      </fileDesc>
+      <encodingDesc xml:id="eqmazvf">
+         <appInfo xml:id="a5cfddr">
+            <application xml:id="a15ld1ma" isodate="2026-11-23T09:49:23" version="6.5.0-dev">
+               <name xml:id="nfiw4xa">Verovio</name>
+               <p xml:id="p1n4gif6">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="qputjv8">
+            <score xml:id="r1c4y4c0">
+               <scoreDef xml:id="sdv83n4">
+                  <staffGrp xml:id="va0ldin">
+                     <staffDef xml:id="aixx2ot" n="1" lines="5" ppq="1">
+                        <label xml:id="w16sxpyo">Piano</label>
+                        <instrDef xml:id="P1" />
+                        <clef xml:id="h1dgs6oj" shape="G" line="2" />
+                        <keySig xml:id="i1g8hdux" sig="2s" />
+                        <meterSig xml:id="je3ufn" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="t1bnz1l">
+                  <expansion plist="#k1l1qlcs" xml:id="l16gc70u" />
+                  <pb xml:id="u14zvoey" />
+                  <section xml:id="k1l1qlcs">
+                     <measure xml:id="k10c3kax" n="1">
+                        <staff xml:id="t14sn575" n="1">
+                           <layer xml:id="uemqn76" n="1">
+                              <note xml:id="v2qdyr4" dur.ppq="4" dur="1" oct="5" pname="d" />
+                           </layer>
+                        </staff>
+                        <tie xml:id="w14oadeu" startid="#v2qdyr4" endid="#j1is80tl" />
+                     </measure>
+                     <sb xml:id="hib242n" />
+                     <measure xml:id="x1416oe1" n="2">
+                        <staff xml:id="gmnzkps" n="1">
+                           <layer xml:id="i1iftgim" n="1">
+                              <note xml:id="j1is80tl" dur.ppq="4" dur="1" oct="5" pname="d" />
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

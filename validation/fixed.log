@@ -1,0 +1,21 @@
+{"file": "reporter.musicxml", "mode": "self", "ok": true, "boxes": [{"id": "bbox-b8j2ung", "rect": [4044.0, 558.0, 6885.0, 117.0], "start": [4044.0, 675.0], "contains": true}, {"id": "bbox-b8j2ung-leeh8fz", "rect": [1144.0, 2629.0, 325.0, 116.0], "start": [1144.0, 2745.0], "contains": true}]}
+{"file": "reporter.musicxml", "mode": "content", "ok": true, "boxes": [{"id": "bbox-b8j2ung", "rect": [4044.0, 558.0, 6885.0, 117.0], "start": [4044.0, 675.0], "contains": true}, {"id": "bbox-b8j2ung-leeh8fz", "rect": [1144.0, 2629.0, 325.0, 116.0], "start": [1144.0, 2745.0], "contains": true}]}
+{"file": "reporter.musicxml", "mode": "html5", "ok": true, "boxes": [{"id": "bbox-b8j2ung", "rect": [4044.0, 558.0, 6885.0, 117.0], "start": [4044.0, 675.0], "contains": true}, {"id": "bbox-b8j2ung-leeh8fz", "rect": [1144.0, 2629.0, 325.0, 116.0], "start": [1144.0, 2745.0], "contains": true}]}
+{"file": "reporter.musicxml", "mode": "plain", "ok": true, "boxes": []}
+{"file": "slur-single.mei", "mode": "self", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [1428.0, 1552.0, 1781.0, 278.0], "start": [1428.0, 1642.0], "contains": true}]}
+{"file": "slur-single.mei", "mode": "content", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [1428.0, 1552.0, 1781.0, 278.0], "start": [1428.0, 1642.0], "contains": true}]}
+{"file": "slur-single.mei", "mode": "html5", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [1428.0, 1552.0, 1781.0, 278.0], "start": [1428.0, 1642.0], "contains": true}]}
+{"file": "slur-single.mei", "mode": "plain", "ok": true, "boxes": []}
+{"file": "slur-split.mei", "mode": "self", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [2254.0, 1597.0, 8673.0, 315.0], "start": [2254.0, 1642.0], "contains": true}, {"id": "bbox-span1-z2gqwr3", "rect": [645.0, 3822.0, 323.0, 213.0], "start": [645.0, 4002.0], "contains": true}]}
+{"file": "slur-split.mei", "mode": "content", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [2254.0, 1597.0, 8673.0, 315.0], "start": [2254.0, 1642.0], "contains": true}, {"id": "bbox-span1-z2gqwr3", "rect": [645.0, 3822.0, 323.0, 213.0], "start": [645.0, 4002.0], "contains": true}]}
+{"file": "slur-split.mei", "mode": "html5", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [2254.0, 1597.0, 8673.0, 315.0], "start": [2254.0, 1642.0], "contains": true}, {"id": "bbox-span1-z2gqwr3", "rect": [645.0, 3822.0, 323.0, 213.0], "start": [645.0, 4002.0], "contains": true}]}
+{"file": "slur-split.mei", "mode": "plain", "ok": true, "boxes": []}
+{"file": "tie-single.mei", "mode": "self", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [1618.0, 1485.0, 1403.0, 116.0], "start": [1618.0, 1485.0], "contains": true}]}
+{"file": "tie-single.mei", "mode": "content", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [1618.0, 1485.0, 1403.0, 116.0], "start": [1618.0, 1485.0], "contains": true}]}
+{"file": "tie-single.mei", "mode": "html5", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [1618.0, 1485.0, 1403.0, 116.0], "start": [1618.0, 1485.0], "contains": true}]}
+{"file": "tie-single.mei", "mode": "plain", "ok": true, "boxes": []}
+{"file": "tie-split.mei", "mode": "self", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [2444.0, 1485.0, 8485.0, 116.0], "start": [2444.0, 1485.0], "contains": true}, {"id": "bbox-span1-z2gqwr3", "rect": [645.0, 3735.0, 325.0, 115.0], "start": [645.0, 3735.0], "contains": true}]}
+{"file": "tie-split.mei", "mode": "content", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [2444.0, 1485.0, 8485.0, 116.0], "start": [2444.0, 1485.0], "contains": true}, {"id": "bbox-span1-z2gqwr3", "rect": [645.0, 3735.0, 325.0, 115.0], "start": [645.0, 3735.0], "contains": true}]}
+{"file": "tie-split.mei", "mode": "html5", "ok": true, "boxes": [{"id": "bbox-span1", "rect": [2444.0, 1485.0, 8485.0, 116.0], "start": [2444.0, 1485.0], "contains": true}, {"id": "bbox-span1-z2gqwr3", "rect": [645.0, 3735.0, 325.0, 115.0], "start": [645.0, 3735.0], "contains": true}]}
+{"file": "tie-split.mei", "mode": "plain", "ok": true, "boxes": []}
+{"count": 20, "failures": []}
